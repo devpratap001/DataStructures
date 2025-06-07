@@ -1,0 +1,5 @@
+index.c
+*.o
+*.d
+index
+.vscode/
