@@ -37,6 +37,7 @@ Each data structure's implementation is located in its respective folder. To com
 
 If you have any questions or suggestions, feel free to reach out:
 
-* [devpratap001] - [devps1125@gmail.com]
+* Github: [devpratap001](https://github.com/devpratap001/)
+* Email: [devps1125@gmail.com](mailto:devps1125@gamil.com)
 
 ---
